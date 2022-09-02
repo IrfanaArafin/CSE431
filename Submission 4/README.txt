@@ -9,7 +9,7 @@ Paper title:
 Human Speech Recognition Using CNN
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1i2wACXkfYJCY7Fb1WE5BDUs8MwheeUM55E1rXz52JNc/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 25 October 1999
