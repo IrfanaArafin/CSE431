@@ -12,16 +12,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1i2wACXkfYJCY7Fb1WE5BDUs8MwheeUM55E1rXz52JNc/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-25 October 1999
+9 September 2022
 
 Paper submission ID: (received) from conference/workshop
-1341234
+14
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+ICCIT2022
 
 Conference URL:
-http://confsite/...
+https://iccit.org.bd/2022/
 
 Group Number:
 5
